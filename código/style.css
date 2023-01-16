@@ -1,0 +1,47 @@
+p{
+    text-align: center;
+     color: blanchedalmond;
+     background-color: cadetblue;
+     padding: 20px;
+     font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif
+}
+
+h1{
+    text-align: center;
+     color: aqua;
+     background-color: blueviolet;
+     padding: 50px;
+     font-size: 30px;
+     font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+
+}
+
+div {
+    width: 200px;
+}
+
+.subtitulo{
+    text-align: center;
+    font-size: 100px;
+    color: blueviolet;
+}
+
+.w-800{
+    /*unidad absoluta segun la pantalla de todo dispositivo:*/
+    /*width: 1000px;*/
+
+    /*unidades relativas segun la pantalla de todo dispositivo:*/
+    width: 30vw;
+}
+
+#parrafoes{
+color: darkmagenta;
+
+}
+
+#rectang{
+    background-color: brown;
+    height: 100px;
+    width: 100px;
+}
+

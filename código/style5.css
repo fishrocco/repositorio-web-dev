@@ -1,0 +1,16 @@
+img{
+    width: 20%;
+    padding: 100px;
+    display: inline;
+    object-fit: contain;
+    border: 100px;
+
+}
+
+/*img:nth-child(2){
+    visibility: hidden;
+}*/
+
+/*img:nth-child(2){
+    display: none;
+} */
